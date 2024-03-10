@@ -4,7 +4,7 @@
  ![Title logo](https://github.com/gamusiro/Biliconnect/blob/main/Biliconnect/Material/Texture/title.png)
 
 ## メンバー
-笠原瑞希　池田 真南都　真田 瞭雅 竹内孝輔 新井惟織 栗田 有健 三瓶誠悟 白銀 岳人 永島 帆夏　井岸 優　中村　円　中田 桃子　笹島 悦司
+笠原瑞希　池田 真南都　真田 瞭雅　竹内孝輔　新井惟織　栗田 有健　三瓶誠悟　白銀 岳人　永島 帆夏　井岸 優　中村　円　中田 桃子　笹島 悦司
 
 ## cmake
 - 1.CMakeListsのディレクトリまで移動する
